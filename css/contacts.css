@@ -1,0 +1,91 @@
+body{
+  font-family: Montserrat;
+  font-weight: 400;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+.get{
+  text-transform:unset;
+}
+.callback__header{
+  text-transform: uppercase;
+  font-size: 16px;
+  line-height: 30.84px;
+}
+.want_more{
+  display: flex;
+  flex-direction: row;
+}
+.orange{
+  color: #fb9900;
+}
+button{
+  margin-top: 5px;
+  height: 33px;
+  background-color: #ffa71d;
+}
+.left .fab,
+.left .fas{
+  color: #ffa71d;
+  font-size: 25px;
+  line-height: 11.33px;
+  padding-right: 16px;
+  padding-bottom: 16px;
+
+}
+.right{
+}
+.index-columns{
+  padding-bottom: 82px;
+}
+hr{
+  margin: 0 auto;
+  width: 62rem;
+  border: none; 
+  background-color: #e5e5e5; 
+  color: e5e5e5; 
+  height: 2px; 
+}
+
+element.style {
+}
+.form-group input, .form-group textarea {
+    width: 100%;
+    padding: 5px;
+    font-size: 18px;
+    margin-top: 5px;
+}
+input{
+  background-color: #f2f2f2;
+  border: none;
+  border-radius: 3px;
+}
+textarea {
+  background-color: #f2f2f2;
+  border-radius: 3px;
+  border: none;
+  margin-bottom: 45px;
+ }
+ .right button{
+   width: 362px;
+ }
+#number{
+  width: 22.5rem;
+  margin-left: 4rem;
+  padding-top: 11px;
+}
+ .tell {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   margin-right: 1.5rem;
+ }
+ .collaboration__sub{
+   padding-top: 22px;
+ }
+
+ .top__lang>a {
+  color: white;
+}
